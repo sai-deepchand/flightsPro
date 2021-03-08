@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d0a11ee-1f12-4b45-9a2f-2b2043645750" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/home.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/redsky.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/redwing.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/wing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Desktop/flightsPro-main" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -90,10 +88,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1611838910942">
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1615195020311">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1611838910942" />
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1615195020311" />
     <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1611838856755">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
